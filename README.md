@@ -9,7 +9,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ChefJoseph)](https://git.io/streak-stats)
 
 -->
-<img src="https://github.com/AlinaPisarenko/AlinaPisarenko/blob/main/Black%20Bold%20Tech%20CopywriterEditor%20Freelance%20Website%20(2).png">
 
 <!--
 **AlinaPisarenko/AlinaPisarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,10 +46,10 @@ Here are some ideas to get you started:
 </div>
 -->
 
-## 👩‍💻 I'm a full-stack developer, who is passionate about front-end and focused on building and maintaining responsive websites.   
+##  I'm a full-stack developer, who is passionate about front-end and focused on building and maintaining responsive websites.   
   
 <br/> 
-Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background in design and architecture. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
+Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background as a Executive Chef and Restaurant industry entrepreneur. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
   
 
 - 🔭 I’m currently working on ... portfolio website!
@@ -91,8 +90,6 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ChefJoseph)](https://git.io/streak-stats)
   
 </div>  
-
-
 <br/>   
   
 
