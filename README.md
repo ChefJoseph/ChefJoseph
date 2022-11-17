@@ -79,7 +79,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 
 </div>
 
-<br/>  
+<!-- <br/>  
 
 ## 🔥 My Stats
 
@@ -90,7 +90,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ChefJoseph)](https://git.io/streak-stats)
   
 </div>  
-<br/>   
+<br/>    -->
   
 
 
