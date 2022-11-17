@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background as a Executive Chef and Restaurant industry entrepreneur. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
   
 
-- 🔭 I’m currently working on ... portfolio website!
+- 🔭 I’m currently working on ... portfolio website and full-stack e-commerce site!
 - 🌱 I’m currently learning ...React/Redux, Typescript, Bootstrap, CSS, Data structures/Algorithms
 - 📫 How to reach me: ... https://www.linkedin.com/in/joseph-hirotsu/
 
