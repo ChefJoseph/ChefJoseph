@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br/> 
 <br/> 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)]
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ChefJoseph?theme=unicorn&extension=activity)]
 
 <div align="center">
 <a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
