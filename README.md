@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <br/> 
 <br/> 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ChefJoseph)
 
 <div align="center">
 <a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
