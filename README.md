@@ -11,7 +11,7 @@
 -->
 
 <!--
-**AlinaPisarenko/AlinaPisarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,16 +48,16 @@ Here are some ideas to get you started:
 -->
 
 ##  I'm a full-stack developer, who is passionate about front-end and focused on building and maintaining responsive websites.   
-  
-<br/> 
-Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background as a Executive Chef and Restaurant industry entrepreneur. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
-  
-
-- 🔭 I’m currently working on ... portfolio website and full-stack e-commerce site!
-- 🌱 I’m currently learning ...React/Redux, Typescript, Bootstrap, CSS, Data structures/Algorithms
-- 📫 How to reach me: ... https://www.linkedin.com/in/joseph-hirotsu/
-
-<br/> 
+Check out my <a href="https://chefjoseph.github.io/portfoliowebsite">Portfolio website</a>
+<br/>
+- Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background as a Executive Chef and Restaurant industry entrepreneur. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
+- 🔭 I’m currently working on ...full-stack e-commerce site, 
+- 🌱 I’m currently learning ...React/Redux/Context API, Python/Flask, Bootstrap, CSS, Data structures/Algorithms
+- 📫 How to reach me: <div align="left">
+<a href="https://www.linkedin.com/in/joseph-hirotsu" rel="noreferrer" target="_blank">
+<img style="margin: 10px" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin width="150"  />
+</a>
+</div> 
 
 ## 🛠 My Skill Set  
 
@@ -80,7 +80,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 
 </div>
 
-<!-- <br/>  
+<br/>  
 
 ## 🔥 My Stats
 
@@ -91,7 +91,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ChefJoseph)](https://git.io/streak-stats)
   
 </div>  
-<br/>    -->
+<br/>   
   
 
 
