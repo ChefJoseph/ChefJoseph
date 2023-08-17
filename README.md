@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 Check out my <a href="https://chefjoseph.github.io/portfoliowebsite">Portfolio website</a>
 <br/>
 - Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background as a Executive Chef and Restaurant industry entrepreneur. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
-- 🔭 I’m currently working on ...full-stack e-commerce site, 
-- 🌱 I’m currently learning ...React/Redux/Context API, Python/Flask, Bootstrap, CSS, Data structures/Algorithms
+- 🔭 I’m currently working on ... <a href="https://discovernikkei.org" target="_blank">, 
+- 🌱 I’m currently learning ...React/Redux/Context API, Python/Flask/Django, Bootstrap, CSS, Data structures/Algorithms
 - 📫 How to reach me: <div align="left">
 <a href="https://www.linkedin.com/in/joseph-hirotsu" rel="noreferrer" target="_blank">
 <img style="margin: 10px" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin width="150"  />
